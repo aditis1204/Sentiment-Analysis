@@ -12,3 +12,6 @@
 * Predict sentiment on raw text
 
 ### Deploy model using REST API : 
+<img src = "output/positive.png"> 
+<img src = "output/neutral.png"> 
+<img src = "output/negative.png"> 
